@@ -25,7 +25,7 @@ source "${HELPER}"
 
 function vendor_imports() {
     cat << EOF >> "$1"
-                "device/xiaomi/miuicamera-cupid",
+                "device/xiaomi/miuicamera-mondrian",
 EOF
 }
 
