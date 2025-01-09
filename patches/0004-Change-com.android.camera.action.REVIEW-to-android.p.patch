@@ -1,7 +1,7 @@
 From 317db7603d301e10fe460a46d273d35e9ca66856 Mon Sep 17 00:00:00 2001
 From: Arian <arian.kulmer@web.de>
 Date: Wed, 16 Oct 2024 01:29:58 +0200
-Subject: [PATCH 4/8] Change com.android.camera.action.REVIEW to
+Subject: [PATCH 4/9] Change com.android.camera.action.REVIEW to
  android.provider.action.REVIEW
 
 This is the standard intent for review actions
